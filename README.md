@@ -74,8 +74,7 @@ You can review and edit generated files if you need to change any settings.
 
 ## 👨‍💻 Running locally
 
-Before running the solution, make sure you have a database server up and running, you have created a database and set up all the required environment variables.
-To create a database run the following command:
+Before running the solution, make sure you have a database server up and running, have created a database, and set up all the required environment variables. To create a database, run the following command:
 ```bash
 npm run db:create
 ```
